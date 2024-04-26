@@ -20,11 +20,10 @@
 </ul>
 
 <h2><strong>Screenshots</strong></h2>
-![WhatsApp Image 2024-04-27 at 01 26 10 (1)](https://github.com/iayr1/otpchecker/assets/98678646/f7e5fdc8-3a9c-472a-af9d-f67bbdab0469)
-![WhatsApp Image 2024-04-27 at 01 26 10](https://github.com/iayr1/otpchecker/assets/98678646/feb2499d-c351-4ad0-b2fc-2a8aef2e5beb)
-![WhatsApp Image 2024-04-27 at 01 26 09 (1)](https://github.com/iayr1/otpchecker/assets/98678646/471e4036-5fef-4c88-a8f7-a2af8171d3aa)
-![WhatsApp Image 2024-04-27 at 01 26 09](https://github.com/iayr1/otpchecker/assets/98678646/b5cd8d55-a52e-4c07-ae3e-bd0684348778)
-
+![pic3](https://github.com/iayr1/otpchecker/assets/98678646/408d9862-d826-44f9-b377-0e0825751018)
+![pic4](https://github.com/iayr1/otpchecker/assets/98678646/4f43ee6f-754e-4ede-ad0f-0cbc33704de9)
+![pic1](https://github.com/iayr1/otpchecker/assets/98678646/580f1dc2-5f7c-4000-8e81-6f4ab7d0e245)
+![pic2](https://github.com/iayr1/otpchecker/assets/98678646/5a29965f-3480-4452-bdc1-6a9dfbe0c0fa)
 <h2><strong>Getting Started</strong></h2>
 <h1><strong>OTP Checker</strong></h1>
 
